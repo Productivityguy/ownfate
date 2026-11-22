@@ -1,6 +1,6 @@
 # OwnFate
 
-<img src="fastlane/metadata/android/en-US/images/icon.png" alt="OwnFate icon" width="112">
+[![OwnFate icon](https://raw.githubusercontent.com/Productivityguy/ownfate/main/fastlane/metadata/android/en-US/images/icon.png)](https://github.com/Productivityguy/ownfate/blob/main/fastlane/metadata/android/en-US/images/icon.png)
 
 OwnFate is an Android accessibility service that blocks porn and gambling on the phone itself. It
 reads what is on screen, folds it, and matches it against a tiered word engine. It also checks the
@@ -15,10 +15,11 @@ front. There is no VPN, no DNS proxy and no network access at all.
 
 ## Screenshots
 
-| | |
-| --- | --- |
-| <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/1-home-dark.png" alt="Home, dark theme" width="260"> | <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/2-home-light.png" alt="Home, light theme" width="260"> |
-| <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/3-custom.png" alt="Custom" width="260"> | <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/4-protection.png" alt="Protection" width="260"> |
+Click on any image to enlarge it.
+
+| | | | |
+| --- | --- | --- | --- |
+| [![](https://raw.githubusercontent.com/Productivityguy/ownfate/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1-home-dark.png)](https://github.com/Productivityguy/ownfate/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1-home-dark.png) | [![](https://raw.githubusercontent.com/Productivityguy/ownfate/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2-home-light.png)](https://github.com/Productivityguy/ownfate/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2-home-light.png) | [![](https://raw.githubusercontent.com/Productivityguy/ownfate/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3-custom.png)](https://github.com/Productivityguy/ownfate/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3-custom.png) | [![](https://raw.githubusercontent.com/Productivityguy/ownfate/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4-protection.png)](https://github.com/Productivityguy/ownfate/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4-protection.png) |
 
 ## Project layout
 
