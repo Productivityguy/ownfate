@@ -1,6 +1,7 @@
 # OwnFate
 
-[![OwnFate icon](https://raw.githubusercontent.com/Productivityguy/ownfate/main/fastlane/metadata/android/en-US/images/icon.png)](https://github.com/Productivityguy/ownfate/blob/main/fastlane/metadata/android/en-US/images/icon.png)
+<a href="https://github.com/Productivityguy/ownfate/blob/main/fastlane/metadata/android/en-US/images/icon.png"><img src="https://raw.githubusercontent.com/Productivityguy/ownfate/main/fastlane/metadata/android/en-US/images/icon.png" alt="OwnFate icon" width="180"></a>
+
 
 OwnFate is an Android accessibility service that blocks porn and gambling on the phone itself. It
 reads what is on screen, folds it, and matches it against a tiered word engine. It also checks the
