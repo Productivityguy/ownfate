@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OwnFate</string>
+    <string name="acc_desc">OwnFate reads address bars, search boxes and on-screen text, and blocks adult and gambling content, adult and gambling websites, and the apps you choose. It also leaves its own accessibility and device-admin screens and the power menu\'s actions. Other apps\' accessibility and device-admin settings are not blocked. Everything is matched on this device.</string>
+    <string name="appeal_retry">Not quite — type it exactly.</string>
+</resources>

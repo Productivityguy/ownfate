@@ -1,0 +1,30 @@
+# Gradle / Kotlin build output
+.gradle/
+.kotlin/
+/build/
+/app/build/
+/local.properties
+
+# IDE
+.idea/
+*.iml
+
+# Release signing material (never commit a keystore or its passwords)
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+*.gpg
+
+# Distribution / release APKs (published through GitHub Releases)
+/dist/
+
+# Python helper caches
+__pycache__/
+*.pyc
+
+# Local helper tools (not part of the app)
+tools/
+
+# OS noise
+.DS_Store

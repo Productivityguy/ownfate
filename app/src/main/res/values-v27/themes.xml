@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.OwnFate" parent="Theme.OwnFate.Base">
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>

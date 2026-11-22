@@ -1,0 +1,24 @@
+OwnFate is an offline porn and gambling blocker for Android. It is an app blocker, a word blocker and a site blocker. It reads what is on screen, folds it and matches it against a tiered word engine, checks the browser address bar against bundled host lists, and watches for apps you choose coming to the front. It can also block search inside major social media apps. Everything is matched on the device.
+
+There is no VPN, no DNS proxy and no INTERNET permission. The app declares no manifest permissions at all, has no analytics or telemetry, no backup, and no third-party runtime dependencies. Nothing it reads can leave the phone.
+
+WHAT IT BLOCKS
+- Porn and gambling websites, from bundled host lists
+- Porn words and names in searches and on-screen text, with an appeal for soft word matches
+- Image and video search result pages in a browser
+- Apps you pick, plus a bundled gambling and prediction-market starter list
+- Search inside major social media apps: Instagram, X (Twitter), Reddit and Telegram search, all off by default
+
+HOW IT BEHAVES
+A block shows a full-screen card. It stays inert for two seconds, consumes touches through a scrim, and never hides itself. You can close it, or appeal a soft word match. Allow words are a global bypass for word blocking only; site and app blocks still apply.
+
+Home, Custom, Protection and Log are the four tabs. Every filter switch is off by default. A protection lock and a change lock are available from Protection, both off by default. Device admin is optional and adds no policies; it only puts Android's deactivation step in front of uninstall.
+
+CUSTOMISATION
+Bring your own block and exclude lists for words, sites and apps. The theme is Dark (true-black AMOLED) or Light. Eight backgrounds are included: Grid (default), Dots, Samurai, Warrior, Miku, Flower, Spiderweb and Sword, all tintable through the Art colour swatches.
+
+PRIVACY
+No network access, no analytics, no crash reporting, no backup. The catch log is the only data kept, in one private SharedPreferences file.
+
+LICENCE
+GPL-3.0-or-later. Host lists are derived from StevenBlack/hosts (MIT); Inter fonts are OFL-1.1. See LICENSE and THIRD_PARTY_NOTICES.md in the source repository.

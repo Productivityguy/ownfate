@@ -1,0 +1,9 @@
+On-device porn/gambling blocking via words, hosts and apps.
+Four tabs: Home, Custom, Protection, Log; switches off by default.
+Full-screen block cards, two-second inert window, Close or Appeal.
+Optional protection and change locks; device admin adds no policies.
+Custom block/exclude lists; four search add-ons off by default.
+AMOLED Dark and Light themes, eight backgrounds, Grid by default.
+No permissions, no INTERNET, no analytics, no runtime dependencies.
+
+GPL-3.0-or-later.

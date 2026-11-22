@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Thin outline with just the dot and stem filled: reads clean at small sizes. -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="1.6"
+        android:pathData="M12,3.6a8.4,8.4 0 1,0 0,16.8a8.4,8.4 0 1,0 0,-16.8" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M12,7.1a1.15,1.15 0 1,0 0,2.3a1.15,1.15 0 1,0 0,-2.3zM11.05,10.7h1.9v6h-1.9z" />
+</vector>

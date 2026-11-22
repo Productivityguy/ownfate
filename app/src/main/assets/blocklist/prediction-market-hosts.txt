@@ -1,0 +1,56 @@
+# Prediction-market domains
+#
+# Event-contract and forecasting platforms: a market on a future outcome, not a casino game.
+# Betting exchanges (Betfair, Smarkets, Matchbook) live in the gambling list instead, and
+# brokerages and weather sites are deliberately not here.
+#
+# Starter set — add more from the Custom tab if needed.
+polymarket.com
+www.polymarket.com
+kalshi.com
+www.kalshi.com
+predictit.org
+www.predictit.org
+manifold.markets
+www.manifold.markets
+metaculus.com
+www.metaculus.com
+augur.net
+www.augur.net
+gnosis.pm
+www.gnosis.pm
+omen.eth
+www.omen.eth
+omen.xyz
+www.omen.xyz
+zeitgeist.pm
+www.zeitgeist.pm
+futuur.com
+www.futuur.com
+insightprediction.com
+www.insightprediction.com
+# Current event-contract platforms
+prophetx.co
+www.prophetx.co
+limitless.exchange
+www.limitless.exchange
+myriad.markets
+www.myriad.markets
+opinion.trade
+www.opinion.trade
+predict.fun
+www.predict.fun
+sx.bet
+www.sx.bet
+totalis.trade
+www.totalis.trade
+novig.com
+www.novig.com
+outpoll.com
+www.outpoll.com
+tradebanta.com
+www.tradebanta.com
+fanaticsmarkets.com
+www.fanaticsmarkets.com
+predictions.draftkings.com
+www.predictions.draftkings.com

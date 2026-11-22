@@ -1,0 +1,31 @@
+Categories:
+  - Security
+  - Digital Wellbeing
+License: GPL-3.0-or-later
+AuthorName: Productivityguy
+AuthorEmail: ownfate@proton.me
+
+SourceCode: https://github.com/Productivityguy/ownfate
+IssueTracker: https://github.com/Productivityguy/ownfate/issues
+Changelog: https://github.com/Productivityguy/ownfate/blob/main/CHANGELOG.md
+
+RepoType: git
+Repo: https://github.com/Productivityguy/ownfate.git
+
+MaintainerNotes: |
+  Source builds do not require a local signing keystore: assembleRelease stays
+  unsigned when signing properties are absent, so F-Droid can rebuild and sign it.
+  Direct GitHub release APKs use a separate dedicated release key, so users
+  switching between GitHub and F-Droid builds must uninstall the other one first.
+  The app uses an accessibility service and optional device admin; both are granted
+  by the user from OwnFate's own screens. Screenshots and full descriptions live in
+  fastlane/metadata/android/en-US/.
+  The four bundled Inter TTF files in app/src/main/res/font/ are OFL-1.1 licensed;
+  if the source scanner flags them, add app/src/main/res/font/ to scanignore.
+
+Builds:
+  - versionName: 1.0.0
+    versionCode: 1
+    commit: v1.0.0
+    gradle: yes
+    output: app/build/outputs/apk/release/app-release-unsigned.apk

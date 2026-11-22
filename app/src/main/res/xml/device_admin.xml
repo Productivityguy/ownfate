@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Deliberately empty. OwnFate does not ask for wipe-data, password or lock-screen power.
+  Being an active admin is enough to add the deactivation step Settings requires before the app
+  can be uninstalled, and that step is the one the off-switch guard watches.
+-->
+<device-admin xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-policies />
+</device-admin>
