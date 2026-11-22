@@ -26,6 +26,6 @@ MaintainerNotes: |
 Builds:
   - versionName: 1.0.0
     versionCode: 1
-    commit: v1.0.0
+    commit: 46dfe7df87af6e045109e46a1de77755db1ab564
     gradle: yes
     output: app/build/outputs/apk/release/app-release-unsigned.apk
